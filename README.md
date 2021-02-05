@@ -1,2 +1,2 @@
 # My GitHub Site
-[My CV](https://rafisics.github.io/cv/)
+- [My CV](https://rafisics.github.io/cv/)
